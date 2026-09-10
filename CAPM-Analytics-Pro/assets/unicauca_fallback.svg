@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Universidad del Cauca">
+  <rect width="220" height="220" rx="28" fill="#14213D"/>
+  <path d="M110 30c14 21 30 34 59 45v35c0 36-24 60-59 80-35-20-59-44-59-80V75c29-11 45-24 59-45Z" fill="none" stroke="#fff" stroke-width="6"/>
+  <path d="M110 62c-7 12-14 22-14 32 0 8 6 15 14 15s14-7 14-15c0-10-7-20-14-32Z" fill="#fff"/>
+  <path d="M103 108h14v48h-14z" fill="#fff"/>
+  <text x="110" y="181" fill="#fff" font-size="13" font-family="Arial" text-anchor="middle" font-weight="700">UNIVERSIDAD DEL CAUCA</text>
+  <text x="110" y="198" fill="#B3261E" font-size="11" font-family="Arial" text-anchor="middle" font-weight="700">1827</text>
+</svg>
